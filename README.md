@@ -34,8 +34,6 @@ Built using **SSD300 with VGG16 backbone**, this project demonstrates real-time 
 
 ---
 
-### 📥 Download Dataset
+### 📥 Weights File
 
-Download the Blood Cell Image Segmentation dataset from the link below and extract it into the project directory.
-
-🔗 **Dataset Link:** [Download Here](https://drive.google.com/file/d/1HXbxQ2C3J_UhqiDYF5XZDm9w7OOf86Cy/view?usp=sharing)
+🔗 **Link:** [Download Here](https://drive.google.com/drive/folders/1WzQKkPYrQSfiyuT0s7hogyfiE4Z2Up3A?usp=sharing)
